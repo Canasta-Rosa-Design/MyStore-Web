@@ -1,0 +1,189 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D53F6F26-8332-4CE8-9851-9BD79CC0B33F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 681,
+    "width": 320,
+    "x": -346,
+    "y": -4146
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      299,
+      20,
+      310
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "6E6150AC-8D24-4963-9990-2AB54FF00D0F"
+    },
+    {
+      "class": "group",
+      "id": "6EFAAA4A-E511-4AAC-A868-4F13B19B021B"
+    },
+    {
+      "class": "group",
+      "id": "548A45A0-C214-4959-8074-CD58A5F70117"
+    },
+    {
+      "class": "shapePath",
+      "id": "71255082-5A6A-430C-8CA3-E9923B8CC9DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA8B6680-AB00-4E68-8709-E51A270B92D0"
+    },
+    {
+      "class": "group",
+      "id": "329EEBC6-3EA6-4B2B-9288-2389E948FC6E"
+    },
+    {
+      "class": "text",
+      "id": "5ECB898C-DDB3-41DB-A755-9B16B54A0D93"
+    },
+    {
+      "class": "group",
+      "id": "09399C51-3730-434B-A565-D74C44125DCA"
+    },
+    {
+      "class": "rectangle",
+      "id": "7988BC35-1F35-4EF3-AC29-450D05AFB248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87C809D9-E813-4007-A30B-01B794EEA192"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21FD4EA0-BCC8-47FE-9BE5-4D1B58A98B14"
+    },
+    {
+      "class": "rectangle",
+      "id": "02B67789-7E8A-481C-AA01-976F663A0CF2"
+    },
+    {
+      "class": "group",
+      "id": "25795A2F-4EE6-4F57-ABEF-54F6DE0AE101"
+    },
+    {
+      "class": "group",
+      "id": "805799A6-F755-45CA-91FC-93726F4C8160"
+    }
+  ],
+  "name": "Phone/MenuAccess",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3F50E241-5B69-4A32-A671-C7F5BCC96118",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      29
+    ]
+  }
+}

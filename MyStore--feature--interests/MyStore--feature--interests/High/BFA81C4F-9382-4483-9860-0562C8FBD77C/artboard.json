@@ -25,12 +25,12 @@
     "height": 1024,
     "width": 768,
     "x": 700,
-    "y": 3185
+    "y": 4476
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -63,9 +63,17 @@
     {
       "class": "group",
       "id": "658C8BCF-7CAB-47EB-99F1-D749574C801A"
+    },
+    {
+      "class": "group",
+      "id": "DED75AE4-3618-4F22-A2CD-46B31757DCC4"
+    },
+    {
+      "class": "group",
+      "id": "4CF33738-68FC-435B-A9E9-9EAC6E5F18E2"
     }
   ],
-  "name": "Tablet/Interest/selected",
+  "name": "Tablet/Interest&categories/add",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

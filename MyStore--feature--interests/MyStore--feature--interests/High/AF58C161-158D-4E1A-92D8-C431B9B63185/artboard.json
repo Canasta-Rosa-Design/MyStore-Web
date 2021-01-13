@@ -37,7 +37,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,15 +56,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "A62046B6-B433-4533-AF6C-D88F19DD5247"
+      "id": "9BA45B5C-29CC-461B-BBF9-4A307927DDCF"
     },
     {
       "class": "group",
-      "id": "74E8CFD3-1C2E-4E61-9CB4-D745A7EA8113"
+      "id": "9AEBA85B-EA0B-4407-B772-6098CD456E0B"
+    },
+    {
+      "class": "rectangle",
+      "id": "8E0FB1D8-4769-4A98-9031-1BB753753B19"
+    },
+    {
+      "class": "group",
+      "id": "3443DD4A-4814-4FB7-9293-05C158FB4697"
     }
   ],
   "layout": {
