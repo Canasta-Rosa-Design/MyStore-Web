@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2D1E9BF-9CCC-4E57-A6A1-E2C2B2455C27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 78,
+    "width": 1102,
+    "x": 0,
+    "y": 220
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "28133932-696E-4012-B57B-87E6B1D62D3D"
+    },
+    {
+      "class": "text",
+      "id": "846D9305-643E-4C81-8CD1-F9D747184B57"
+    },
+    {
+      "class": "text",
+      "id": "7AE8AE6C-9E8B-47E2-95D6-6414029CD8CD"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E8F6201-6754-471E-8572-825C0529E8AC"
+    }
+  ],
+  "name": "CRTableRow/product/underOrder",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "397ECE2B-99D9-463E-8394-D793F741F78C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "39ACE2D5-7281-4443-B2AE-4B244F109D6F",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 78,
+          "width": 1100,
+          "x": 0,
+          "y": 220
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "C956C0F8-3396-48D8-928B-0E4428017367",
+        "symbolID": "7609A16C-1858-464D-8610-E98CDE9E2677"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "39ACE2D5-7281-4443-B2AE-4B244F109D6F",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 78,
+          "width": 1100,
+          "x": 0,
+          "y": 220
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "C956C0F8-3396-48D8-928B-0E4428017367",
+        "symbolID": "7609A16C-1858-464D-8610-E98CDE9E2677"
+      }
+    }
+  }
+}

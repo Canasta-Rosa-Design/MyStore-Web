@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4092C19E-F880-4D9E-80E0-9C5817105C8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1123,
+    "width": 1200,
+    "x": 15484,
+    "y": 548
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      1180
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A66FF771-4C24-49EA-A264-1B29FE893062"
+    },
+    {
+      "class": "group",
+      "id": "EF618965-69CC-49FC-A62B-06F525D9F877"
+    },
+    {
+      "class": "group",
+      "id": "2A7AF2B2-3DC5-4805-8B17-497A3B846CFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DED33AC-0A90-49AD-B9D7-8478CC539066"
+    },
+    {
+      "class": "rectangle",
+      "id": "7DDB6B2B-9401-4D76-9F36-D5471E5B5784"
+    },
+    {
+      "class": "text",
+      "id": "7D57240E-628F-4289-8AA5-10BC8A98F1CF"
+    },
+    {
+      "class": "text",
+      "id": "979DBDB3-134A-48C2-9359-0F98C785BEFE"
+    },
+    {
+      "class": "group",
+      "id": "A0890F78-FE33-4956-B3E9-1FFFA6326FFA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 120,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Desktop/ProductList--grid",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "DF20D077-BABB-4EA7-A6B5-E9719B74643C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

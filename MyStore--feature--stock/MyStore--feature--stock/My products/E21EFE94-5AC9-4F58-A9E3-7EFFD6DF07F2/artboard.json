@@ -31,13 +31,14 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      259
+      259,
+      -822
     ]
   },
   "includeBackgroundColorInExport": true,

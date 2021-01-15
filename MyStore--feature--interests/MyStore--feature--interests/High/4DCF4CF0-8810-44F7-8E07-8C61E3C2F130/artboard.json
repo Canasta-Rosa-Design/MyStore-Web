@@ -30,8 +30,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -74,10 +74,14 @@
     },
     {
       "class": "group",
-      "id": "AC1DC467-F1E6-4636-B224-A0BFF92DBAE7"
+      "id": "2BF16408-06F8-432B-A816-DBAFA86C85DB"
+    },
+    {
+      "class": "group",
+      "id": "422A7094-6AD7-423E-8456-0B8C0D27F647"
     }
   ],
-  "name": "Tablet/Interest/modalSelected",
+  "name": "Tablet/Interest/selected2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

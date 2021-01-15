@@ -23,6 +23,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "1F00660C-B26C-4AE6-86E8-3D6756937E1D",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -195,13 +198,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "303C4322-B077-4AE6-86E8-366556B20770",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.1",
-    "build": 102560,
-    "version": 131
+    "appVersion": "70.2",
+    "build": 109071,
+    "version": 134
   },
   "pages": [
     "My products",
@@ -210,6 +214,7 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "26304722-B077-4AE6-86E8-366556B2097C",
     "objects": [
     ]
   },
@@ -220,6 +225,10 @@
           "name": "Canasta DS",
           "styleguideId": "5e0f8cfb8673a510135e3fd9",
           "updatedOn": "2020-10-07 03:41:21 +0000"
+        },
+        "5eb202940f022e79392f1d94": {
+          "name": "Mijo",
+          "styleguideId": "5eb202940f022e79392f1d94"
         },
         "null": {
           "layerStylesMap": {
