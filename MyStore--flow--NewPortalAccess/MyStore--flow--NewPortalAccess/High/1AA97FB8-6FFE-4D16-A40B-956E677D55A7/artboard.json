@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1990,
+    "height": 2216,
     "width": 1200,
     "x": 3537,
     "y": -3896
@@ -61,7 +61,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "78F08328-83F6-4255-B27F-A1001C4FAFDA"
+      "id": "49209F20-384D-4D45-9A18-8A737A8535F4"
     },
     {
       "class": "shapePath",
@@ -70,6 +70,14 @@
     {
       "class": "shapePath",
       "id": "17E516C5-042A-47BB-806C-75CDA65B5A44"
+    },
+    {
+      "class": "shapePath",
+      "id": "692214FD-25ED-46DB-9A8F-BF2354AE9BF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "29F18580-FBF0-4251-90D0-6661F9248FB1"
     },
     {
       "class": "shapePath",
@@ -108,32 +116,16 @@
       "id": "B6BB2F65-6128-4836-A0E4-FD2C7FDF027E"
     },
     {
-      "class": "text",
-      "id": "7EE720FE-5D06-49F1-8A11-09150619DFDE"
-    },
-    {
-      "class": "group",
-      "id": "A2F55098-7A32-447D-983D-416FF3636038"
-    },
-    {
-      "class": "group",
-      "id": "3050C373-CC97-4F46-8B40-F4BE6D188AE2"
-    },
-    {
-      "class": "text",
-      "id": "0060B2A2-02F9-465C-AFFD-5F3CE8084FFF"
-    },
-    {
-      "class": "group",
-      "id": "FB27A21B-D139-4A77-B05A-76F2031F839F"
-    },
-    {
-      "class": "text",
-      "id": "8046EA46-F02A-4B83-9A10-9F53A922C9F6"
-    },
-    {
       "class": "group",
       "id": "0717A548-EE22-4248-A790-E924EAEEEB7C"
+    },
+    {
+      "class": "group",
+      "id": "B3DED49D-13BB-4D49-8E57-F9E568A9A47B"
+    },
+    {
+      "class": "group",
+      "id": "E7185B89-A4F7-44CE-97CE-5829B3867E5C"
     },
     {
       "class": "text",
@@ -142,6 +134,62 @@
     {
       "class": "group",
       "id": "0254F325-BBB7-420A-A4DA-62FAFF21301E"
+    },
+    {
+      "class": "group",
+      "id": "881337CA-A9F2-4DF4-8022-CFCDC5D7C222"
+    },
+    {
+      "class": "text",
+      "id": "708879EE-0D86-469B-9D29-363B67EC0811"
+    },
+    {
+      "class": "text",
+      "id": "9293235A-264F-4493-AB4B-39CB2019E381"
+    },
+    {
+      "class": "text",
+      "id": "AC55248D-2B99-418E-A4A6-274648C7DC80"
+    },
+    {
+      "class": "text",
+      "id": "02120B48-30D3-4276-A117-475A72142FAF"
+    },
+    {
+      "class": "text",
+      "id": "AE14975E-1A98-4B21-BCD4-95EFA93AB386"
+    },
+    {
+      "class": "text",
+      "id": "98D18988-25C6-4860-8AF5-5EA078FB2131"
+    },
+    {
+      "class": "group",
+      "id": "DF5449F8-97BA-41E0-93B6-ED334936ACC5"
+    },
+    {
+      "class": "group",
+      "id": "BC5D52A9-448A-446A-938F-B1EB131B3FF2"
+    },
+    {
+      "class": "group",
+      "id": "1CB2C033-3149-41BB-8877-F8380DDDA9ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E89F18F-3AF8-472B-A36A-500CBB45C958"
+    },
+    {
+      "class": "text",
+      "id": "2C76FDBB-1023-469A-AEB8-3F2D3DB0508E"
+    },
+    {
+      "class": "rectangle",
+      "id": "E6C68618-2432-4E8B-9506-C81EF0C8C3A6"
+    },
+    {
+      "class": "text",
+      "id": "85622413-28C9-4FB8-B14C-9A0B2273F1B8"
     }
   ],
   "layout": {

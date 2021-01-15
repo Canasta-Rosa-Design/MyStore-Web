@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 101,
+    "height": 99,
     "width": 282,
     "x": 20,
-    "y": 1257.332699619772
+    "y": 1259.332699619772
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,11 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "4AC869AB-9721-43BA-9095-3B8C00721147"
+    },
+    {
+      "class": "group",
+      "id": "6E8FEB10-497B-4BB9-9169-EC5C05F3BCCC"
     }
   ],
   "name": "Group 10",

@@ -25,7 +25,7 @@
             "alignment": 2
           }
         },
-        "length": 29,
+        "length": 81,
         "location": 0
       },
       {
@@ -34,34 +34,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.2156862745098039,
-            "red": 0.2156862745098039
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Sarabun-Bold",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 26,
-        "location": 29
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.2156862745098039,
-            "red": 0.2156862745098039
+            "blue": 0.4627450980392159,
+            "green": 0.2235294117647059,
+            "red": 0.9019607843137255
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -75,65 +50,11 @@
             "alignment": 2
           }
         },
-        "length": 39,
-        "location": 55
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.2156862745098039,
-            "red": 0.2156862745098039
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Sarabun-Regular",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 1
-        },
-        "length": 23,
-        "location": 94
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.2156862745098039,
-            "red": 0.2156862745098039
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Sarabun-Regular",
-              "size": 16
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
-        },
-        "length": 1,
-        "location": 117
+        "length": 10,
+        "location": 81
       }
     ],
-    "string": "Al activar los envíos gratis aceptas absorber el precio a favor de tus clientes, así como los terminos \ny condiciones."
+    "string": "Al activar los envíos gratis aceptas absorber el precio a favor de tus clientes. Conoce más"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -152,19 +73,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 84,
+    "height": 63,
     "width": 279,
     "x": 10,
-    "y": 119
+    "y": 121
   },
-  "glyphBounds": "{{19, 5}, {240, 79}}",
+  "glyphBounds": "{{21, 5}, {237, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 3,
   "name": "Al activar los envío",
   "nameIsFixed": false,

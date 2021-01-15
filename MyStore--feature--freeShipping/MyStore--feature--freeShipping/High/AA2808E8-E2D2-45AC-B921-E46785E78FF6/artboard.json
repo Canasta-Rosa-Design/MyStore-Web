@@ -24,20 +24,20 @@
     "constrainProportions": false,
     "height": 834,
     "width": 1200,
-    "x": 1440,
+    "x": 5401,
     "y": -2166
   },
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 20,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 10
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -158,7 +158,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 120,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 639,
     "width": 320,
-    "x": -4447,
-    "y": 3590
+    "x": -237,
+    "y": 969
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
@@ -124,6 +124,10 @@
     {
       "class": "group",
       "id": "E8D3D07D-8941-41C2-96EC-856CC42C2D24"
+    },
+    {
+      "class": "text",
+      "id": "3C9ECC6D-4E55-4327-ABE8-6BA30B646967"
     }
   ],
   "name": "Phone/FreeShipping/NotPermission",

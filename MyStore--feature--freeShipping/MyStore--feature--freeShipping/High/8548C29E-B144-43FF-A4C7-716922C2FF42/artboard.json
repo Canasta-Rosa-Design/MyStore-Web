@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 768,
-    "x": -5354,
-    "y": 3590
+    "x": -1144,
+    "y": 969
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -99,6 +99,10 @@
     {
       "class": "group",
       "id": "C4E8F6F5-0392-4364-83E4-1177CBCBDD6B"
+    },
+    {
+      "class": "text",
+      "id": "0951A8B3-4C98-40BB-A7D9-CDA5530DEF9A"
     }
   ],
   "name": "Tablet/FreeShipping/NotPermission",

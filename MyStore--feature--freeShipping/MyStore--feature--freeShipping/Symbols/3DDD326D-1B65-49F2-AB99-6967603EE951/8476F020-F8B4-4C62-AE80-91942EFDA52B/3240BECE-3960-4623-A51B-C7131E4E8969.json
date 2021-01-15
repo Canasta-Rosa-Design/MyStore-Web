@@ -16,14 +16,13 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Sarabun-Bold",
+              "name": "Sarabun-Regular",
               "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
         "length": 9,
         "location": 0
@@ -50,23 +49,24 @@
     "constrainProportions": false,
     "height": 21,
     "width": 74,
-    "x": 18,
-    "y": 1.583333333333336
+    "x": 22,
+    "y": 0.5833333333333712
   },
-  "glyphBounds": "{{1, 5}, {72, 13}}",
+  "glyphBounds": "{{1, 5}, {69, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 3,
   "name": "Pendiente",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7104A852-04AC-480A-A771-37F9C9363105",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,14 +125,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Sarabun-Bold",
+            "name": "Sarabun-Regular",
             "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle"
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },

@@ -22,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1086,
     "width": 768,
-    "x": -5354,
-    "y": -4586
+    "x": -5152,
+    "y": -4575
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -106,11 +106,15 @@
     },
     {
       "class": "group",
-      "id": "95C9375A-649F-4B8B-98E6-B3FB88728FB5"
+      "id": "84CF306D-4D95-46A7-8328-CCBF8A341ABA"
     },
     {
       "class": "group",
-      "id": "699FBC22-0917-494F-8257-51A1AFB9DC03"
+      "id": "9CC05E9D-AD35-435D-A933-8DD571D92DED"
+    },
+    {
+      "class": "text",
+      "id": "CC29B853-CE57-48D3-9C01-E54BFF04F660"
     }
   ],
   "name": "TabletFreeShipping/Help",
